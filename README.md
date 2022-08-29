@@ -12,4 +12,4 @@ In my own words growth mindset is the mindset that you are never complete and yo
 - No one was born knowing how to code everyone started somewhere
 - Failure is the pinnacle of success
 
-My Github like is: (https://github.com/EDStaehle)
+My [Github] like is: (https://github.com/EDStaehle)
