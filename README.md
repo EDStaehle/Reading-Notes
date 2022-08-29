@@ -13,4 +13,5 @@ In my own words growth mindset is the mindset that you are never complete and yo
 - Failure is the pinnacle of success
 
 [My GitHub link is:](https://github.com/EDStaehle)
+
 [click this link for all of my reading notes](https://edstaehle.github.io/reading-notes/collection-of-reading-notes)
