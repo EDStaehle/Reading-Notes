@@ -8,7 +8,7 @@ In my own words growth mindset is the mindset that you are never complete and yo
 
 ### 3 Reminders to keep myself in the growth mindset:
 
-- No one starst a skill as a master 
+- No one starts a skill as a master 
 - No one was born knowing how to code everyone started somewhere
 - Failure is the pinnacle of success
 
