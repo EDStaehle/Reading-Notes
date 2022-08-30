@@ -18,6 +18,7 @@ cd(change directory)
 cd[enter] takes you back to the beginning
 
 cd ..(goes back one lever (( each aditional level is an extra dot E.X. cd... *goes back two levels
+~ home
 
 mkdir(make directory)(( directory and folder are the same thing))
 
