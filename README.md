@@ -14,7 +14,7 @@ In my own words growth mindset is the mindset that you are never complete and yo
 
 [My GitHub link is:](https://github.com/EDStaehle)
 
-[click this link for class 102 notes](https://edstaehle.github.io/Reading-Notes/class102notes)
+[Table of Contents]()
 
 
 
