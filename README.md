@@ -1,4 +1,4 @@
-# reading-notes
+# Reading Notes
 *My reading notes for Code Fellows*
 
 **Hi my name is Elias Staehle! I like Javascript and coding**
