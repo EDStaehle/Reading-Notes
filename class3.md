@@ -123,7 +123,7 @@ Also, no untracked files are present because Git has not listed any.
 
  `$ git status`
 
-### Tracking and Staging a New File 
+### Tracking and Staging a New File
 
 *Single File*
 
@@ -163,7 +163,7 @@ When you are ready to continue working on the changes, simply use the `git stash
 
 In order to collaborate on Git projects, you must interact with remote repositories,
 
-versions of a project residing online or on a network. 
+versions of a project residing online or on a network.
 
 You can work with multiple repositories, for which you can have read/write or read-only privileges.
 
@@ -172,8 +172,8 @@ Teams can use remote repositories to push information to and pull data from.
 ### Cloned Repositories
 
 As mentioned earlier, for cloned repositories,
- 
-Git will automatically give the name > origin to the server from which you cloned and the name 
+
+Git will automatically give the name > origin to the server from which you cloned and the name
 
 > master to your local branch.
 
@@ -187,14 +187,14 @@ By using `git remote -v`, you can view all the remote URLs next to their corresp
 
 `$ git remote -v`
 
-remote1 https://github.com/remote1/example fetch
+remote1 <https://github.com/remote1/example> fetch
 
-remote1 https://github.com/remote1/example push
+remote1 <https://github.com/remote1/example> push
 
-remote2 https://github.com/remote2/example fetch
+remote2 <https://github.com/remote2/example> fetch
 
-remote2 https://github.com/remote2/example push
+remote2 <https://github.com/remote2/example> push
 
-remote3 https://github.com/remote3/example fetch
+remote3 <https://github.com/remote3/example> fetch
 
-remote3 https://github.com/remote3/example push
+remote3 <https://github.com/remote3/example> push
