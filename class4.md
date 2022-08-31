@@ -140,11 +140,10 @@ semantics in HTML. HTML should be coded to represent the data that will be popul
 
 For example, <h1> element is ta semantic element, which gives the text it wraps around the role or meaning of a top level heading on a page.
 
-<h1> this iis a top level heading</h1>
+<h1> this is a top level heading</h1>
 demo notes
 
-<!-- drawing -->
-<!-- <nav>
+-- <nav>
 controls navigation
 </nav>
 <ul></ul> = unordered list
@@ -157,4 +156,4 @@ organizing contants
 <p>text goes here</p>
 <main></main>
 <header></header>
-<footer></footer>   -->
+<footer></footer>
