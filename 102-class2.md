@@ -77,7 +77,7 @@ This is a part of the operating system that defines how the terminal will behave
 
 There are various shells available but the most common one is called bash which stands for Bourne again shell.
 
-**Shortcuts**
+## **Shortcuts**
 
 The terminal may seem daunting but don't fret.
 
@@ -89,7 +89,7 @@ Take note of them as not only do they make your life easier, they often also sav
 
 ### Basic Navigation! Let's explore the system
 
-##### see demo notes for examples and commands
+#### see demo notes for examples and commands
 
 #### Absolute and Relative Paths
 

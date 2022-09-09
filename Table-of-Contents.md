@@ -1,5 +1,5 @@
 # Table of Contents
 
-[Class 102](https://edstaehle.github.io/Reading-Notes/class102notes)
+[Class 102](https://edstaehle.github.io/Reading-Notes/class-102-notes)
 
-[Class 201]()
+[Class 201](https://edstaehle.github.io/Reading-Notes/class-201-notes)

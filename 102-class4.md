@@ -76,7 +76,7 @@ Dont make the site over the top with too much information. additional links or e
 
 You need to fully understand what your wireframe is just like you ned your user to fully understand what your site is.
 
-# Mozilla HTML basics
+## Mozilla HTML basics
 
 ## what is HTML
 
