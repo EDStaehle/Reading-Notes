@@ -22,6 +22,6 @@ you should consider accessibility and readabiliity with your users. when choosin
 
 one way to add spacing to the H1 is to use yexy transform full width or you can use the ccc element letter spacing or word spacing.
 
-## things i want to know more about.
+## things i want to know more about
 
-CSS styling in general.
+CSS styling in general
