@@ -17,3 +17,5 @@
 [class-201-class-8-notes](https://edstaehle.github.io/Reading-Notes/201-class-08-notes)
 
 [class-201-class-9-notes](https://edstaehle.github.io/Reading-Notes/201-class-09-notes)
+
+[class-201-class-10-notes](https://edstaehle.github.io/Reading-Notes/201-class-10-notes)
