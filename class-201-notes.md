@@ -19,3 +19,11 @@
 [class-201-class-9-notes](https://edstaehle.github.io/Reading-Notes/201-class-09-notes)
 
 [class-201-class-10-notes](https://edstaehle.github.io/Reading-Notes/201-class-10-notes)
+
+[class-201-class-11-notes](https://edstaehle.github.io/Reading-Notes/201-class-11-notes)
+
+[class-201-class-12-notes](https://edstaehle.github.io/Reading-Notes/201-class-12-notes)
+
+[class-201-class-13-notes](https://edstaehle.github.io/Reading-Notes/201-class-13-notes)
+
+[class-201-class-14-notes](https://edstaehle.github.io/Reading-Notes/201-class-14-notes)
