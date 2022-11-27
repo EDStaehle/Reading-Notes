@@ -6,4 +6,4 @@
 
 [class-401-terminal-practice](https://edstaehle.github.io/Reading-Notes/class-401/terminal-practice)
 
-[class-401-intro-to-sql](https://edstaehle.github.io/Reading-Notes/class-401intro-to-sql)
+[class-401-intro-to-sql](https://edstaehle.github.io/Reading-Notes/class-401/intro-to-sql)
